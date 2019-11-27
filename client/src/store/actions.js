@@ -1,0 +1,5 @@
+export const UPDATE_STATE = 'UPDATE_STATE'
+export const SET_LOGIN_DATA = 'SET_LOGIN_DATA'
+export const SET_REGISTRATION_DATA = 'SET_REGISTRATION_DATA'
+export const SET_VIDEOS = 'SET_VIDEOS'
+export const ADD_VIDEO = 'ADD_VIDEO'
